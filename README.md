@@ -1,7 +1,7 @@
 # 🧠 Task Manager API (.NET 8)
 
 ## 📌 Project Overview
-This is a simple **Task Management Web API** built using **ASP.NET Core (.NET 6)** and **Entity Framework Core**. It supports full CRUD operations on tasks, stores data in-memory, and uses **Swagger UI** for testing. Built as part of a real-world developer challenge to simulate backend work in a short timeframe.
+This is a simple **Task Management Web API** built using **ASP.NET Core (.NET 8)** and **Entity Framework Core**. It supports full CRUD operations on tasks, stores data in-memory, and uses **Swagger UI** for testing. Built as part of a real-world developer challenge to simulate backend work in a short timeframe.
 
 ---
 
@@ -17,7 +17,7 @@ This is a simple **Task Management Web API** built using **ASP.NET Core (.NET 6)
 ## 🚀 How to Run Locally
 
 ### ✅ Prerequisites
-- [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
+- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
 - Git & Terminal / Command Prompt
 
 ### 📥 Clone the Repository
